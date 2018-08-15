@@ -4,6 +4,8 @@
 
 Bash Cheat Sheet:  https://learntocodewith.me/command-line/unix-command-cheat-sheet/
 
+Dos Cheat Sheet: https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/4/html/Step_by_Step_Guide/ap-doslinux.html
+
 Notebooks from VanderPlas' "Python Data Science Handbook": https://github.com/jakevdp/PythonDataScienceHandbook
 
 
